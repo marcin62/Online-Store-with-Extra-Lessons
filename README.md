@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ### Server view
-![img](/im1.jpg)
+![img](/im1.png)
